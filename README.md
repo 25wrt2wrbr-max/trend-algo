@@ -222,6 +222,18 @@ trend-algo/
 
 ---
 
+---
+
+## Want this on a web page
+
+The same classifier, ported to JavaScript and wrapped as a one-file web component, is
+[Trend Badge](https://juniverse8031.gumroad.com/l/trend-badge?utm_source=github&utm_medium=readme&utm_campaign=trend-badge-v1):
+one script tag and one tag per asset, with the card, the badge, the hover readout and the
+loaders already written. $15.20 once, unlimited sites of your own and client sites.
+
+This repository stays free. If you would rather port it yourself, everything above is the
+whole of the maths, and the licence below says what you may do with it.
+
 ## References
 
 The weights are fixed. The citations are why each piece is there.
@@ -234,5 +246,5 @@ The weights are fixed. The citations are why each piece is there.
 ---
 
 <p align="center">
-  <sub>Historical statistics on seven liquid series. A label is a description of the last 63 closes and of how similar windows behaved in this sample. It is not a forecast you should trade on.</sub>
+  <sub>Licence: see LICENSE. Historical statistics on seven liquid series. A label is a description of the last 63 closes and of how similar windows behaved in this sample. It is not a forecast you should trade on.</sub>
 </p>

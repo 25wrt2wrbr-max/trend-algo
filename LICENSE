@@ -1,0 +1,29 @@
+trend-algo -- licence
+Copyright (c) 2026 Juni Labs
+
+This repository is published so the method can be read, run and checked. That is
+the point of it.
+
+YOU MAY
+  1. Read, run and change this code for your own use, including commercial
+     research and analysis on your own data.
+  2. Quote the method, the weights and the backtest numbers, with a link back
+     to this repository.
+
+YOU MAY NOT
+  1. Publish this code, changed or unchanged, as a product, a template, a plugin
+     or part of a widget library. If you want to ship a trend label to other
+     people's websites, write your own component or buy Trend Badge.
+  2. Use the name "Trend Badge", or the Juni Labs name and logo, for your own
+     work.
+
+NO FINANCIAL ADVICE
+  A label describes the last 63 closes and how similar windows behaved in this
+  sample. It is not a forecast and not investment advice. What you do with it is
+  your responsibility.
+
+NO WARRANTY
+  The code is provided "as is", without warranty of any kind. The author is not
+  liable for any loss or damage that comes from using it.
+
+Questions about these terms: open an issue in this repository.
